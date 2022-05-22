@@ -13,7 +13,6 @@ namespace test_console_app {
       };
 
       Console.WriteLine(girl.Name);
-
     }
   }
 }
